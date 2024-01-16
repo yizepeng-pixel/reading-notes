@@ -4,3 +4,6 @@ https://www.kernel.org/doc/html/latest/networking/filter.html#networking-filter
 https://www.kernel.org/doc/html/latest/bpf/index.html
 https://www.cnblogs.com/testing-/p/17761028.html
 https://www.tcpdump.org/index.html#documentation
+
+nftables：
+https://firewalld.org/2018/07/nftables-backend
